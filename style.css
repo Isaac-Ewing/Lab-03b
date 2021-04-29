@@ -1,0 +1,27 @@
+#first-input {
+    border: 2px solid black;
+    width: 70px;
+}
+
+#second-input {
+    border: 2px solid black;
+    width: 70px;
+}
+
+#sign {
+    border: 1px dotted gray;
+    width: 20px;
+}
+
+.calc {
+    text-align: center;
+    margin-top: 250px;
+}
+
+.instructions {
+    text-align: center;
+}
+
+#counter {
+    text-align: center;
+}
